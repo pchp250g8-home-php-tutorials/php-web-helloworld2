@@ -2,6 +2,7 @@ HelloWorld2. PHP Tutorials. Simple Input/Output. Html Web Forms. Web Application
 
 HelloWorld2. Занятия по PHP. Простой Ввод/вывод. HTML Веб Формы. Веб Приложение.
 Приложение (веб сайт) состоит из трёх HTML страниц с именами файлов "index.html","form-get.html" и "form-post.html" и скрипта на языке программирования PHP с именем файла "HelloWorld2.php".
+Первая HTML страница с именем файла
 Вторая HTML страница с именем файла "form-get.html" является веб формой с методом отправки данных "Get" скрипту на языке программирования PHP с именем файла "HelloWorld2.php".
 Состоит из следующих элементов:
   1. Надпись с текстом "Input your name" и размерами шириной 120 и высотой 30 пикселей.
