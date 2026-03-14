@@ -1,4 +1,4 @@
-HelloWorld2. PHP Tutorials. Simple Input/Output. Html Web Forms. Web Application. 
+HelloWorld2. PHP Tutorials. Simple Input/Output. Html Web Forms. Web Application.
 
 The application (website) consists of three HTML pages with the file names "index.html," "formget.html," and "form-post.html" and a PHP script with the file name "HelloWorld2.php." All files are encoded in UTF-8.
 The first HTML page with the file name "index.html" is the start page of the web application (site).
